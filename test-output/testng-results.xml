@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="AntJenkinsTestSuit" duration-ms="19460" started-at="2016-05-16T14:31:36Z" finished-at="2016-05-16T14:31:56Z">
+    <groups>
+    </groups>
+    <test name="MyTests" duration-ms="19460" started-at="2016-05-16T14:31:36Z" finished-at="2016-05-16T14:31:56Z">
+      <class name="singamPackage.NewTest">
+        <test-method status="PASS" signature="LoginTest()[pri:0, instance:singamPackage.NewTest@597c3925]" name="LoginTest" duration-ms="19444" started-at="2016-05-16T20:01:36Z" finished-at="2016-05-16T20:01:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+      </class> <!-- singamPackage.NewTest -->
+    </test> <!-- MyTests -->
+  </suite> <!-- AntJenkinsTestSuit -->
+</testng-results>
